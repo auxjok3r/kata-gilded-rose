@@ -41,4 +41,8 @@ public class Item {
   public String toString() {
     return "Item{" + "name='" + name + '\'' + ", sellIn=" + sellIn + ", quality=" + quality + '}';
   }
+
+  public void decreaseSellIn(){
+      this.sellIn--;
+  }
 }

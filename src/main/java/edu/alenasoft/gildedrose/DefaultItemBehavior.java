@@ -15,7 +15,7 @@ public class DefaultItemBehavior implements ItemBehavior {
             item.setQuality(item.getQuality() - ITEM_DEGRADE_QUALITY * 2);
         }
         if (item.getQuality() < VOIDED_QUALITY) {
-            item.setQuality(VOIDED_QUALITY); ;
+            item.setQuality(VOIDED_QUALITY);
         }
         item.decreaseSellIn();
     }

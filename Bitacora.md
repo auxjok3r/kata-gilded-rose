@@ -1,3 +1,12 @@
+### Grupo 1 ###
+
+### Integrantes ###
+
+* GIL MONTERO MARCO ANTONIO
+* VERDI TORREZ FRANZ AJIT SINGH
+* AILLON SALINAS RAUL FERNANDO
+* PARRAGA MARTINEZ ANA ISABEL
+
 En la Clase **GildedRose** existe mucho ,
 según un analisis vemos que la mejor alternativa es usa el 
 patrón Factory para crear los diferentes comportamintos.
